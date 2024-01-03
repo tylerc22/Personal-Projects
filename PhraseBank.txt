@@ -1,5 +1,0 @@
-
-char *PhraseBank[] = {"Break a Leg","A dog is a man's best friend", "Not everything is as it seems",
-                 "All you can eat buffet", "A penny for your thoughts", "One small step for man, and one giant leap for mankind",
-				 "All hat, no cattle", "Jump on the bandwagon",
-				 "A penny for your thoughts", "As right as rain", ""};
